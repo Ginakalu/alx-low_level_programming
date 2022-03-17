@@ -1,4 +1,4 @@
-[12:44 PM, 3/17/2022] Gina: #include "main.h"
+#include "main.h"
 
 /**
  * largest_number - returns the largest of 3 numbers
