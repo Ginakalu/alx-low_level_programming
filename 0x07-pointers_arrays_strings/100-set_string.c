@@ -6,7 +6,7 @@
  * @to: pointer char
  */
 
-void set_string(char **a, char *p)
+void set_string(char **s, char *to)
 {
-	*a = p;
+	*s = to;
 }
