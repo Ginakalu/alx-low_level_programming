@@ -30,6 +30,3 @@ else if (n % resp == 0 || n <= 1)
 else
 	return (check_prime(n, resp + 1));
 }
-© 2022 GitHub, Inc.
-Terms
-Pri
