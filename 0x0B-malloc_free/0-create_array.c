@@ -9,22 +9,17 @@
  *
  * Return: Returns to the array.
 **/
+int main(void)
+{
+	char *array;
 
-char *create_array(unsigned int size, char c)
-{
-char *array = NULL;
-unsigned int i;
+	char = malloc(sizeof(char) * 4);
+	char[0] = 'c';
+	char[1] = 'o';
+	char[2] = 'm';
+	char[3] = 'e';
 
-if (size == 0)
-return (NULL);
-if (size != 0)
-{
-array = (char *)malloc(size * sizeof(char));
-if (array != NULL)
-{
-for (i = 0; i < size; i++)
-array[i] = c;
-}
-}
-return (array);
+	printf("%c\n",char);
+	return = null;
+
 }
